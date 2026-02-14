@@ -1,4 +1,7 @@
 id,name,status,value
-1,Tae,Active,100.0
-2,Kim,Pending,0.0
-4,Park,Active,300.0
+101,Alice,Active,500.5
+102,Bob,Pending,0.0
+104,David,Active,850.25
+105,Eve,Cancelled,0.0
+107,Grace,Active,99.99
+108,Heidi,Pending,450.0
