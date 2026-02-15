@@ -1,0 +1,9 @@
+id,name,status,value
+101,Alice,Active,500.50
+102,Bob,Pending,
+103,Charlie,,1200.00
+104,David,Active,850.25
+105,Eve,Cancelled,
+106,Frank,,
+107,Grace,Active,99.99
+108,Heidi,Pending,450.00
